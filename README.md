@@ -5,21 +5,6 @@ Welcome to this module challenge focused on data analysis with Python's Pandas l
 
 In this challenge, we'll dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Your mission will involve identifying top customers, popular product categories, calculating profits, and more. By the end of this task, you'll have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career.
 
-Files
-Download the following files to help you get started:
-
-Module 4 Challenge filesLinks to an external site.
-
-# Before You Begin
-- Before starting the assignment, be sure to complete the following steps:
-
-- Create a new repository for this project called pandas-challenge-1. Do not add this homework assignment to an existing repository.
-
-- Clone the new repository to your computer.
-
-- Inside your local Git repository, add the starter files from your file downloads.
-
-- Push these changes to GitHub or GitLab.
 
 # Challenge Instructions
 Part 1: Explore the Data
